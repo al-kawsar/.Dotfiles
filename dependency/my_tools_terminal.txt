@@ -1,0 +1,61 @@
+### Tools dari Winget
+1. NVM for Windows: Mengelola versi Node.js dengan mudah.  
+2. 7-Zip: Alat untuk kompresi file dan ekstraksi.  
+3. Bitdefender Agent: Perangkat lunak antivirus untuk perlindungan sistem.  
+4. Clownfish Voice Changer: Mengubah suara secara real-time.  
+5. Firefox Developer Edition: Browser untuk pengembang dengan fitur debugging lanjutan.6. TablePlus: Alat GUI untuk manajemen database.  
+7. TeamViewer: Perangkat lunak akses jarak jauh dan kolaborasi.  
+8. XAMPP: Paket server PHP, MySQL, dan Apache untuk pengembangan lokal.  
+9. PCSX2: Emulator untuk game PlayStation 2.  
+10. MongoDB Server: Database NoSQL untuk aplikasi modern.  
+11. MySQL Workbench: GUI untuk administrasi dan desain database MySQL.  
+12. DB Browser for SQLite: Editor database SQLite.  
+13. Composer: Manajer dependensi untuk proyek PHP.  
+14. Microsoft Teams: Alat komunikasi dan kolaborasi untuk tim.  
+15. OBS Studio: Alat untuk streaming dan perekaman layar.  
+16. VS Code: Editor kode populer dengan ekstensi.  
+17. Python 3.12: Interpreter Python untuk pengembangan aplikasi.  
+18. Telegram Desktop: Klien desktop untuk aplikasi Telegram.  
+19. Discord: Aplikasi komunikasi berbasis komunitas.  
+20. Postman: Alat untuk pengujian API.  
+21. Oh My Posh: Kustomisasi prompt terminal.  
+22. Figma: Alat desain antarmuka dan prototyping.  
+23. Obsidian: Aplikasi pencatatan berbasis Markdown.  
+24. Windows Terminal: Terminal modern untuk Windows.
+
+
+### Tools dari Scoop
+1. 7zip: Alat kompresi file.  
+2. bat: Pengganti cat dengan syntax highlighting.  
+3. curl: Alat HTTP untuk mengirim dan menerima data.  
+4. delta: Viewer untuk perbedaan Git dengan tampilan yang rapi.  
+5. fzf: Fuzzy finder untuk pencarian cepat.  
+6. gcc: Compiler untuk bahasa C dan C++.  
+7. gh: CLI untuk GitHub.  
+8. jq: JSON processor untuk membaca dan memformat data JSON.  
+9. just: Command runner untuk otomasi.  
+10. lazydocker: Antarmuka terminal untuk Docker.  
+11. lazygit: Antarmuka terminal untuk Git.  
+12. less: Pager untuk membaca file teks.  
+13. neofetch: Menampilkan informasi sistem di terminal.  
+14. neovim: Editor teks modern berbasis terminal.  
+15. oh-my-posh: Kustomisasi prompt terminal.  
+16. scc: Alat untuk analisis kode.  
+17. sudo: Menjalankan perintah dengan izin admin.  
+18. tldr: Dokumentasi singkat untuk perintah CLI.  
+19. vcredist2022: Microsoft Visual C++ Redistributable.  
+20. zoxide: Alat navigasi direktori yang cepat.
+
+
+### Tools dari Choco
+1. curl: Sama seperti pada Scoop dan Winget.  
+2. dart-sdk: Kit pengembangan Dart.  
+3. httpie: Alternatif modern untuk curl.  
+4. jq: JSON processor.  
+5. neovim: Editor teks modern berbasis terminal.  
+6. python3: Interpreter Python.  
+7. sudo: Menjalankan perintah dengan izin admin.  
+8. vcredist140: Microsoft Visual C++ Redistributable.  
+9. winfetch: Alternatif neofetch untuk Windows.  
+10. chocolatey: Manajer paket untuk Windows.
+
